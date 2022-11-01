@@ -7,6 +7,6 @@ Returns a secure string.
 
 $string = "Metehan Kuscu 'or 1=1";
 
-Output: 'Metehan Kuscu 'or 1 1'
+Output: 'Metehan Kuscu or 1 1'
 
 
